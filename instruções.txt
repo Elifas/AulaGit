@@ -1,0 +1,9 @@
+pwd - saber onde esta
+mkdir - criar pasta
+ls - mostar pastas
+cd - entrar na pasta
+git init - criar repositorio
+ls -ls - mostrar arquivos ocultos
+pegar origem no site do git
+git stauts
+git add . - adcionar todos os arquivos
